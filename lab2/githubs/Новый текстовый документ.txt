@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet"  href="style.css">
+<title>
+The world’s leading software development platform · GitHub</title>
+</head>
+<body>
+	<div class="heading">
+		<div class="logofgit">
+			<img src="C:\Users\Admin\Desktop\webка\githubs\logo_git.jpg" height=3% width=3%>
+		</div>
+		<div>
+			<header>
+			<ul>
+				<li><a href=""> Why GitHub?</a></li>
+				<div clas="LIST">
+					<ul>
+						<li><a href=""><span class="bor">Features</span></span></a></li>
+						<li><a href="">Code review</a></li>
+						<li><a href="">Project management</a></li>
+						<li><a href="">Integretions</a></li>
+						<li><a href="">Actions</a></li>
+						<li><a href="">Packages</a></li>
+						<li><a href="">Security</a></li>
+						<li><a href="">Team mangement</a></li>
+						<li><a href="">Hosting</a></li>
+						<li><a href=""><span class="bor">Customer stories</span></a></li>
+						<li><a href=""><span class="bor">Security</span></a></li>
+					</ul>
+				</div>
+				<li><a href=""> Enterprise</a></li>
+				<li><a href=""> Explore</a></li>
+				<div class="LIST">
+					<ul>
+						<li><a href=""><span class="bor">Explore GitHub</span></span></a></li>
+						<li><a href="">Learn & contribute</a></li>
+						<li><a href="">Topics</a></li>
+						<li><a href="">Collections</a></li>
+						<li><a href="">Trending</a></li>
+						<li><a href="">Learning Lab</a></li>
+						<li><a href="">Open source guides</a></li>
+						<li><a href="">Connect with others</a></li>
+						<li><a href="">Event</a></li>
+						<li><a href="">Community forum</a></li>
+						<li><a href="">GitHub Education</a></li>
+					</ul>
+				</div>
+				<li><a href=""> Marketplase</a></li>
+				<li><a href=""> Pricing</a></li>
+
+				<div class="LIST">
+					<li><a href=""><span class="bor">Plans</span></span></a></li>
+						<li><a href="">Compare plans</a></li>
+						<li><a href="">Contact Sales</a></li>
+					<li><a href=""><span class="bor">Nonprofit</span></span></a></li>	
+					<li><a href=""><span class="bor">Education</span></span></a></li>
+				</div>
+			</ul>
+		</header>
+		</div>
+		<div class="searchBar">
+			<input type="text" placeholder="Search GitHub">
+			<a href="">Sign&nbsp;in</a>
+			<a href="">Sign&nbsp;up	</a>
+
+		</div>
+		
+	</div>
+	<div class="main_reg">
+		
+	</div>
+
+</body>
+</html>
