@@ -1,11 +1,8 @@
-c=0
+ok=False
 a=[]
-n=(input("Number of array: "))
+n=int(input("Number of array: "))
+
 for i in range(int(n)):
     a.append(int(input()))
-for i in range(int(n)):
-    if i>0 and i<4:
-        if a[i] > a[i-1] and a[i] > a[i+1]:
-            c+=1
-print(c)
-
+for i in range(n-1, -1, -1):
+    print(a[i])
