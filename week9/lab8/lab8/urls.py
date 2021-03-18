@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('main.urls')),
     path('',include('core.urls')),
-    path('kudash/',admin.site.urls) 
+    path('kudash/',admin.site.urls),
 ]
